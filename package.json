@@ -30,7 +30,7 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
-    "react-native": "^0.62.0",
+    "react-native": "^0.62.3",
     "redux": "^4.0.5",
     "request": "^2.88.2"
   },
